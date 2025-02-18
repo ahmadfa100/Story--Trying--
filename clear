@@ -1,0 +1,17 @@
+[33mcommit d897fc8bc08d7f794e8190a4c51e7384fd2dba52[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32maline[m[33m)[m
+Author: Ahmad Faisal <ahmad100.fa100@example.com>
+Date:   Tue Feb 18 12:45:25 2025 +0300
+
+    aline branch we modified both :ch1 & ch2
+
+[33mcommit eb6981a785a846ddac53bacb49da4626ed1a190c[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Ahmad Faisal <ahmad100.fa100@example.com>
+Date:   Tue Feb 18 09:19:09 2025 +0300
+
+    complete ch2 & ch3
+
+[33mcommit 7fbc158018ac367a49e61592001483264a2299a3[m
+Author: Ahmad Faisal <ahmad100.fa100@example.com>
+Date:   Tue Feb 18 09:13:26 2025 +0300
+
+    initial commit
